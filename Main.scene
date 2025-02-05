@@ -1,0 +1,472 @@
+{
+	"Version": 1,
+	"Entities": [
+		{
+			"graphics": {
+				"Renderable": {
+					"Height": 134,
+					"Origin": {
+						"x": 0.5,
+						"y": 0.5
+					},
+					"Rect": {
+						"h": 150,
+						"w": 225,
+						"x": 0,
+						"y": 0
+					},
+					"Texture": "assets/Flag.png",
+					"Type": "Sprite",
+					"Width": 195
+				}
+			},
+			"name": {
+				"Name": "Flag"
+			},
+			"rigidbody": {
+				"Body": {
+					"AngularVel": 0.0,
+					"CenterGravity": {
+						"x": 0.0,
+						"y": 0.0
+					},
+					"LinearVel": {
+						"x": 0.0,
+						"y": 0.0
+					},
+					"Mass": null,
+					"Moment": null,
+					"Position": {
+						"x": 1100.0,
+						"y": 450.0
+					},
+					"Rotation": 0.0,
+					"isDynamic": false,
+					"isKinematic": false,
+					"isStatic": true
+				},
+				"Tag": 3
+			},
+			"transform": {
+				"Position": {
+					"x": 1100.0,
+					"y": 450.0
+				},
+				"Rotation": 0.0,
+				"Scale": {
+					"x": 1.0,
+					"y": 1.0
+				}
+			}
+		},
+		{
+			"graphics": {
+				"Renderable": {
+					"Height": 128,
+					"Origin": {
+						"x": 0.5,
+						"y": 0.5
+					},
+					"Rect": {
+						"h": 1920,
+						"w": 1920,
+						"x": 0,
+						"y": 0
+					},
+					"Texture": "assets/player.png",
+					"Type": "Sprite",
+					"Width": 128
+				}
+			},
+			"input": {
+				"Input": "Input"
+			},
+			"name": {
+				"Name": "player"
+			},
+			"rigidbody": {
+				"Body": {
+					"AngularVel": 9.939227498532779e-19,
+					"CenterGravity": {
+						"x": 0.0,
+						"y": 0.0
+					},
+					"LinearVel": {
+						"x": 3.469446951953614e-18,
+						"y": 0.0
+					},
+					"Mass": 0.5,
+					"Moment": 3333.333251953125,
+					"Position": {
+						"x": 124.29067993164063,
+						"y": 500.0
+					},
+					"Rotation": 3.1311802787094625e-14,
+					"isDynamic": true,
+					"isKinematic": false,
+					"isStatic": false
+				},
+				"Tag": 1
+			},
+			"transform": {
+				"Position": {
+					"x": 124.29067993164063,
+					"y": 500.0
+				},
+				"Rotation": 3.1311802787094625e-14,
+				"Scale": {
+					"x": 1.0,
+					"y": 1.0
+				}
+			}
+		},
+		{
+			"graphics": {
+				"Renderable": {
+					"Height": 192,
+					"Origin": {
+						"x": 0.5,
+						"y": 0.5
+					},
+					"Rect": {
+						"h": 192,
+						"w": 192,
+						"x": 0,
+						"y": 0
+					},
+					"Texture": "assets/Platform.png",
+					"Type": "Sprite",
+					"Width": 192
+				}
+			},
+			"name": {
+				"Name": "Plat6"
+			},
+			"rigidbody": {
+				"Body": {
+					"AngularVel": 0.0,
+					"CenterGravity": {
+						"x": 0.0,
+						"y": 0.0
+					},
+					"LinearVel": {
+						"x": 0.0,
+						"y": 0.0
+					},
+					"Mass": null,
+					"Moment": null,
+					"Position": {
+						"x": 1150.0,
+						"y": 700.0
+					},
+					"Rotation": 0.0,
+					"isDynamic": false,
+					"isKinematic": false,
+					"isStatic": true
+				},
+				"Tag": 2
+			},
+			"transform": {
+				"Position": {
+					"x": 1150.0,
+					"y": 700.0
+				},
+				"Rotation": 0.0,
+				"Scale": {
+					"x": 1.0,
+					"y": 1.0
+				}
+			}
+		},
+		{
+			"graphics": {
+				"Renderable": {
+					"Height": 192,
+					"Origin": {
+						"x": 0.5,
+						"y": 0.5
+					},
+					"Rect": {
+						"h": 192,
+						"w": 192,
+						"x": 0,
+						"y": 0
+					},
+					"Texture": "assets/Platform.png",
+					"Type": "Sprite",
+					"Width": 192
+				}
+			},
+			"name": {
+				"Name": "Plat5"
+			},
+			"rigidbody": {
+				"Body": {
+					"AngularVel": 0.0,
+					"CenterGravity": {
+						"x": 0.0,
+						"y": 0.0
+					},
+					"LinearVel": {
+						"x": 0.0,
+						"y": 0.0
+					},
+					"Mass": null,
+					"Moment": null,
+					"Position": {
+						"x": 950.0,
+						"y": 700.0
+					},
+					"Rotation": 0.0,
+					"isDynamic": false,
+					"isKinematic": false,
+					"isStatic": true
+				},
+				"Tag": 2
+			},
+			"transform": {
+				"Position": {
+					"x": 950.0,
+					"y": 700.0
+				},
+				"Rotation": 0.0,
+				"Scale": {
+					"x": 1.0,
+					"y": 1.0
+				}
+			}
+		},
+		{
+			"graphics": {
+				"Renderable": {
+					"Height": 192,
+					"Origin": {
+						"x": 0.5,
+						"y": 0.5
+					},
+					"Rect": {
+						"h": 192,
+						"w": 192,
+						"x": 0,
+						"y": 0
+					},
+					"Texture": "assets/Platform.png",
+					"Type": "Sprite",
+					"Width": 192
+				}
+			},
+			"name": {
+				"Name": "Plat4"
+			},
+			"rigidbody": {
+				"Body": {
+					"AngularVel": 0.0,
+					"CenterGravity": {
+						"x": 0.0,
+						"y": 0.0
+					},
+					"LinearVel": {
+						"x": 0.0,
+						"y": 0.0
+					},
+					"Mass": null,
+					"Moment": null,
+					"Position": {
+						"x": 750.0,
+						"y": 700.0
+					},
+					"Rotation": 0.0,
+					"isDynamic": false,
+					"isKinematic": false,
+					"isStatic": true
+				},
+				"Tag": 2
+			},
+			"transform": {
+				"Position": {
+					"x": 750.0,
+					"y": 700.0
+				},
+				"Rotation": 0.0,
+				"Scale": {
+					"x": 1.0,
+					"y": 1.0
+				}
+			}
+		},
+		{
+			"graphics": {
+				"Renderable": {
+					"Height": 192,
+					"Origin": {
+						"x": 0.5,
+						"y": 0.5
+					},
+					"Rect": {
+						"h": 192,
+						"w": 192,
+						"x": 0,
+						"y": 0
+					},
+					"Texture": "assets/Platform.png",
+					"Type": "Sprite",
+					"Width": 192
+				}
+			},
+			"name": {
+				"Name": "Plat2"
+			},
+			"rigidbody": {
+				"Body": {
+					"AngularVel": 0.0,
+					"CenterGravity": {
+						"x": 0.0,
+						"y": 0.0
+					},
+					"LinearVel": {
+						"x": 0.0,
+						"y": 0.0
+					},
+					"Mass": null,
+					"Moment": null,
+					"Position": {
+						"x": 250.0,
+						"y": 700.0
+					},
+					"Rotation": 0.0,
+					"isDynamic": false,
+					"isKinematic": false,
+					"isStatic": true
+				},
+				"Tag": 2
+			},
+			"transform": {
+				"Position": {
+					"x": 250.0,
+					"y": 700.0
+				},
+				"Rotation": 0.0,
+				"Scale": {
+					"x": 1.0,
+					"y": 1.0
+				}
+			}
+		},
+		{
+			"graphics": {
+				"Renderable": {
+					"Height": 192,
+					"Origin": {
+						"x": 0.5,
+						"y": 0.5
+					},
+					"Rect": {
+						"h": 192,
+						"w": 192,
+						"x": 0,
+						"y": 0
+					},
+					"Texture": "assets/Platform.png",
+					"Type": "Sprite",
+					"Width": 192
+				}
+			},
+			"name": {
+				"Name": "Plat1"
+			},
+			"rigidbody": {
+				"Body": {
+					"AngularVel": 0.0,
+					"CenterGravity": {
+						"x": 0.0,
+						"y": 0.0
+					},
+					"LinearVel": {
+						"x": 0.0,
+						"y": 0.0
+					},
+					"Mass": null,
+					"Moment": null,
+					"Position": {
+						"x": 50.0,
+						"y": 700.0
+					},
+					"Rotation": 0.0,
+					"isDynamic": false,
+					"isKinematic": false,
+					"isStatic": true
+				},
+				"Tag": 2
+			},
+			"transform": {
+				"Position": {
+					"x": 50.0,
+					"y": 700.0
+				},
+				"Rotation": 0.0,
+				"Scale": {
+					"x": 1.0,
+					"y": 1.0
+				}
+			}
+		},
+		{
+			"camera": {},
+			"name": {
+				"Name": "Camera"
+			},
+			"transform": {
+				"Position": {
+					"x": -200.0,
+					"y": 300.0
+				},
+				"Rotation": 0.0,
+				"Scale": {
+					"x": 1.0,
+					"y": 1.0
+				}
+			}
+		},
+		{
+			"name": {
+				"Name": "Death"
+			},
+			"rigidbody": {
+				"Body": {
+					"AngularVel": 0.0,
+					"CenterGravity": {
+						"x": 0.0,
+						"y": 0.0
+					},
+					"LinearVel": {
+						"x": 0.0,
+						"y": 0.0
+					},
+					"Mass": null,
+					"Moment": null,
+					"Position": {
+						"x": 500.0,
+						"y": 750.0
+					},
+					"Rotation": 0.0,
+					"isDynamic": false,
+					"isKinematic": false,
+					"isStatic": true
+				},
+				"Tag": 4
+			},
+			"transform": {
+				"Position": {
+					"x": 500.0,
+					"y": 750.0
+				},
+				"Rotation": 0.0,
+				"Scale": {
+					"x": 1.0,
+					"y": 1.0
+				}
+			}
+		}
+	],
+	"Hierarchies": null
+}

@@ -1,0 +1,19 @@
+{
+	"HP": 100,
+	"Inventory": [
+		"health potion",
+		"gold",
+		"shield"
+	],
+	"Name": "Red",
+	"Position": {
+		"x": 1.0,
+		"y": 1.0
+	},
+	"Stats": {
+		"Argent": 10,
+		"Gentillesse": -20,
+		"Papier": 0,
+		"Voleur": 10000000000000
+	}
+}

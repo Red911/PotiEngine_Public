@@ -1,0 +1,17 @@
+A que bonjour
+
+Bienvenue sur mon moteur PotiEngine.
+
+Il y a une scène disponible et c'est un petit, mais vraiment petit jeu (désolé, je n'ai pas fait un gros jeu, pardon).
+
+Quand tu lanceras l'application, appuie sur F1 pour afficher l'éditeur.
+
+Ensuite, va dans la fenêtre "World Editor" et écris dans la barre de texte : Main.scene, puis appuie sur "Load".
+
+Je te conseille peut-être de regarder les sprites hors stream avant, au cas où tu les trouverais problématiques.
+
+Les contrôles sont : flèche de gauche et flèche de droite pour aller de gauche à droite, et Espace pour sauter.
+
+Le but est d'aller jusqu'au drapeau pour gagner. Le personnage est un peu lourd, donc pour sauter, il faut maintenir la touche Espace, mais juste 1 seconde, je dirais.
+
+En haut à gauche de l'écran, quand l'éditeur est visible, tu peux modifier la musique.
